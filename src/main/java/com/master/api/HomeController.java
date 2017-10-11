@@ -71,7 +71,6 @@ public class HomeController {
 		return r;
 	}
 
-
 	/**
 	 * 随机取色
 	 */
